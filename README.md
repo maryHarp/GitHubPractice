@@ -1,2 +1,2 @@
-here is my GitHub project
+here is my GitHub project. its pretty cool!
 
